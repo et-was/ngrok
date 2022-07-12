@@ -5,4 +5,4 @@ echo "======================="
 wget -O ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok.zip > /dev/null 2>&1
 read -p "Paste Ngrok Authtoken: " 
-./ngrok authtoken 1jsW3z0VLuq8cy4T897nCvXrZ97_Jbi657p9Gfxecenku1gw
+./ngrok authtoken
